@@ -1,3 +1,3 @@
-# alphago10
+# alphaco10
  리포지토리 생성
  
