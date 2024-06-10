@@ -1,2 +1,3 @@
-# alpho10
- ai school
+# alphago10
+ 리포지토리 생성
+ 
